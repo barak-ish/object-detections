@@ -6,5 +6,6 @@ c=36
 answer1 = (-b+((b**2)-(4*a*c))**(1/2))/(2*a)                                   
 answer2 = (-b-((b**2)-(4*a*c))**(1/2))/(2*a)
 
+print('The old man')
 print((answer1))
 print((answer2))
